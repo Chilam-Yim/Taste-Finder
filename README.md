@@ -1,3 +1,4 @@
+A full stack app
 <img width="328" alt="Screenshot 2023-07-11 at 11 42 39 AM" src="https://github.com/Chilam-Yim/Taste-Finder/assets/101900770/842a5e66-882d-4edd-b74d-c29ffbd4864c">
 <img width="383" alt="Screenshot 2023-07-11 at 11 40 54 AM" src="https://github.com/Chilam-Yim/Taste-Finder/assets/101900770/53861c3b-d4c5-4edb-8850-2ccee2a5e68f">
 <img width="381" alt="Screenshot 2023-07-11 at 11 41 11 AM" src="https://github.com/Chilam-Yim/Taste-Finder/assets/101900770/996e06bb-7808-4d57-bdaf-a6357c569dca">
